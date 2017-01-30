@@ -1,0 +1,38 @@
+.redStyle {
+  color: white;
+  float: left;
+  width: 50%;
+  flex-wrap: wrap;
+  height: 75 px;
+  background: red;
+  text-align: left;
+}
+
+.grayStyle {
+  background: #808080;
+  color: #808080;
+  display: flex;
+  float: left;
+  width: 50%;
+  height: 75 px;
+}
+
+.orangeStyle {
+  backround: #FFA500;
+  color: white;
+  height: 50%;
+  width: 25%;
+  line-height: 75 px;
+  flex-wrap: wrap;
+  float: right;
+}
+
+.blueStyle {
+  background: #4169e1;
+  color: #4169e1;
+  flex-wrap: wrap;
+  width: 25%;
+  height: 50%;
+  line-height: 75 px;
+  float: right;
+}

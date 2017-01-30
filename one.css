@@ -1,0 +1,15 @@
+.styleOne {
+  background: orange;
+  text-align: center;
+  font-weight: bold;
+}
+
+.styleTwo {
+  text-align: center;
+  font-weight: bold;
+}
+
+.styleThree {
+  text-align: right;
+  font-weight: bold;
+}
